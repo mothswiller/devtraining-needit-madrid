@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="steve" max_length="40" name="x_58872_needit_steve" type="collection">
+        <element label="MPAN" max_length="200" name="mpan" type="string"/>
+        <element label="Rejection Category" max_length="200" name="rejection_category" type="string"/>
+    </element>
+</database>
